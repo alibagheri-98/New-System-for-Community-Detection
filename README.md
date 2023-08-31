@@ -3,7 +3,7 @@
 I am currently developing a novel community detection system that leverages a comprehensive set of community detection algorithms. This system employs various methods, including majority vote and boosting, to combine the outputs of these algorithms for enhanced accuracy and effectiveness. In this repository, the codes and presentations for this goal are provided. This project is my B.Sc. Project.
 
 ## Presentation
-You can find the PowerPoint presentation (as well as its PDF format) in the "PRESENTATION" folder, alongside the report of the project.
+You can find the PowerPoint presentation (as well as its PDF format) in the "PRESENTATION" folder.
 
 ## Community Detection Using classic algorithms
 You can find the Community Detection codes using classic algorithms in "CD_Classic" folder. In the .py file, there is a system that utilizes the following classic community detection algorithms:
