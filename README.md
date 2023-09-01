@@ -19,3 +19,6 @@ The input consists of the Karate Club dataset, while the output comprises the id
 
 ## Community Detection Using Deep Learning algorithms
 All the codes of different algorithms are in "CD_DL" folder. The approach is similar to "CD_Classic"
+
+## Community Detection Project
+While working on this research project, I designed a course project with the same topic, community detection and methods for graph clustering. In "Community-Detection-Project" folder, you'll discover a project centered around the theme of "Graph Clustering Methods". Our approach involves employing community detection algorithms for effective clustering. The primary objective of this project is to showcase the practical applications of probability to students. Alongside this, participants will gain exposure to the realm of recommender systems. Notably, we crafted and executed this project during our tenure as teaching assistants for the probability course at Sharif University of Technology. I had the privilege of leading this group of teaching assistants.
