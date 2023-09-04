@@ -72,7 +72,7 @@ The "CD_DL" folder serves as a treasure trove of innovative algorithms, each eng
 
 This exhaustive collection of algorithms within the "CD_DL" folder showcases the depth and breadth of our commitment to advancing the field of community detection. These algorithms, each with its unique strengths, collectively contribute to the versatility and effectiveness of our community detection system, enabling us to tackle diverse challenges across a wide range of network scenarios.
 
-## Detecting similar stocks by integrating community
+## Detecting Similar Stocks by Integrating Community
 In the stock market, certain stocks exhibit similarities in their behavior. For instance, during events like the COVID-19 pandemic in 2020, the stocks of pharmaceutical companies tend to gain increased value. This phenomenon suggests that stocks form interconnected groups or 'communities.' Identifying and categorizing these communities can be instrumental in making more informed investment decisions.
 <br>
 Community detection algorithms are a powerful tool for identifying and categorizing these communities. These algorithms can be used to construct stock networks based on stock prices and detect dynamic communities within those networks. By analyzing these communities, investors can gain insights into the complex relationships between stocks and improve their investment strategies.
