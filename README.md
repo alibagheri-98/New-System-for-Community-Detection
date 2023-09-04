@@ -10,8 +10,6 @@ This repository includes the following components:
 4. A final project related to probability and statistics which focuses on community detection.
 <br>
 If you have any questions or need information, about this project feel free to reach out to me
-<br>
-[bagheri9877@gmail.com](bagheri9877@gmail.com)
 
 ## Community Detection Using classic algorithms
 You'll be able to locate the codes for Community Detection that utilize known algorithms in the "CD_Classic" folder. Inside the .py file you'll find a system that employs classic community detection algorithms, including:
@@ -93,5 +91,4 @@ During the course of my research project, I had the opportunity to develop an ed
 
 This project was conceived and executed during our tenure as teaching assistants at Sharif University of Technology. In this capacity, we had the privilege of leading a group of teaching assistants, collaborating to create a meaningful and educational experience for students. Our shared objective was to not only impart knowledge but also to foster a deeper understanding of probability concepts and their real-world applications.
 
-Within the "Community-Detection-Project" folder, you will uncover the details of this educational endeavor, including instructional materials, project documentation, and resources aimed at enhancing students' comprehension of community detection and graph clustering. Should you have any inquiries or seek further information regarding this educational initiative, please do not hesitate to reach out. We are dedicated to promoting educational excellence and sharing our experiences in the field of probability and community detection.
-[bagheri9877@gmail.com](bagheri9877@gmail.com)
+Within the "Community-Detection-Project" folder, you will uncover the details of this educational endeavor, including instructional materials, project documentation, and resources aimed at enhancing students' comprehension of community detection and graph clustering. Should you have any inquiries or seek further information regarding this educational initiative, please do not hesitate to reach out ([bagheri9877@gmail.com](bagheri9877@gmail.com)). We are dedicated to promoting educational excellence and sharing our experiences in the field of probability and community detection.
