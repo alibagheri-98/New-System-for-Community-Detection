@@ -1,7 +1,6 @@
 # New-System-for-Community-Detection
 I am currently working on creating a system, for identifying communities. This system will use a variety of community detection algorithms, such as majority voting and boosting to combine their results and improve accuracy. It is a part of my project for my B.Sc. Degree.
 <br>
-If you have any questions or need information, about this project feel free to reach out to me ([bagheri9877@gmail.com](bagheri9877@gmail.com))
 In addition to that I am actively involved in the task of finding communities within Stock Markets.
 <br>
 This repository includes the following components:
@@ -10,7 +9,7 @@ This repository includes the following components:
 3. Source code specifically designed for detecting communities in Stock Markets.
 4. A final project related to probability and statistics which focuses on community detection.
 <br>
-
+If you have any questions or need information, about this project feel free to reach out to me ([bagheri9877@gmail.com](bagheri9877@gmail.com))
 
 ## Community Detection Using classic algorithms
 You'll be able to locate the codes for Community Detection that utilize known algorithms in the "CD_Classic" folder. Inside the .py file you'll find a system that employs classic community detection algorithms, including:
