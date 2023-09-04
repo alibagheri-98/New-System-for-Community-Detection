@@ -8,6 +8,7 @@ This repository includes the following components:
 2. Presentation materials that explain how I developed the combined community detection algorithms system.
 3. Source code specifically designed for detecting communities in Stock Markets.
 4. A final project related to probability and statistics which focuses on community detection.
+<br>
 If you have any questions or need information, about this project feel free to reach out to me
 
 ## Community Detection Using classic algorithms
