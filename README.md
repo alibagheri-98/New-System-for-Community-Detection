@@ -10,6 +10,7 @@ This repository includes the following components:
 4. A final project related to probability and statistics which focuses on community detection.
 <br>
 If you have any questions or need information, about this project feel free to reach out to me
+<br>
 [bagheri9877@gmail.com](bagheri9877@gmail.com)
 
 ## Community Detection Using classic algorithms
