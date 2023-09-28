@@ -72,17 +72,26 @@ The "CD_DL" folder serves as a treasure trove of innovative algorithms, each eng
 
 This exhaustive collection of algorithms within the "CD_DL" folder showcases the depth and breadth of our commitment to advancing the field of community detection. These algorithms, each with its unique strengths, collectively contribute to the versatility and effectiveness of our community detection system, enabling us to tackle diverse challenges across a wide range of network scenarios.
 
-## Detecting Similar Stocks by Integrating Community
+## Detecting Similar Stocks by Integrating Community Detection Algorithms
 In the stock market, certain stocks exhibit similarities in their behavior. For instance, during events like the COVID-19 pandemic in 2020, the stocks of pharmaceutical companies tend to gain increased value. This phenomenon suggests that stocks form interconnected groups or 'communities.' Identifying and categorizing these communities can be instrumental in making more informed investment decisions.
 <br>
 Community detection algorithms are a powerful tool for identifying and categorizing these communities. These algorithms can be used to construct stock networks based on stock prices and detect dynamic communities within those networks. By analyzing these communities, investors can gain insights into the complex relationships between stocks and improve their investment strategies.
 <br>
 We have applied community detection algorithms to stock market analysis in various ways. In our study, we used community detection techniques to simplify stock market analysis and selected the Tehran stock exchange for analysis. Another study introduced a methodology for constructing stock networks based on stock prices and detecting dynamic communities. Yet another study explored community detection for the New York stock market and showed the rationality of community detection on the stock market network.
 <br>
-In the case of Iran's stock market, I am currently engaged in the development of a novel system that uses community detection algorithms for the detection of stock communities. The system is being applied to analyze the dataset from Iran's stock market, and the research paper titled 'Detecting Similar Stocks by Integrating Community Detection Algorithms: A Case Study on the Iran Stock Market' is currently in the preparation stage.
+We have developed a novel system that uses community detection algorithms for the detection of stock communities. The system is being applied to analyze the dataset from all of the stocks in the world, and the research paper titled 'Detecting similar stocks using community detection algorithms' is currently in the submission stage. A report of some of our results is shown in "Stock-Community-Detection.pdf".
 <br>
 Overall, community detection algorithms are a valuable tool for stock market analysis. By identifying and categorizing stock communities, investors can gain insights into the complex relationships between stocks and improve their investment strategies. The use of community detection algorithms in stock market analysis is a growing field of research, and there are many opportunities for future studies to explore this topic further
-
+<br>
+<b>The abstract of our report:<\b>
+<br>
+The aim of our research is to analyze the stock market by detecting the community structure using various distance and clustering methods. We utilized Dynamic Time Warping (DTW) as a distance measure due to its ability to capture delays and time shifts and wraps. We also used a modified version of DTW that is not sensitive to singularities which are mostly noises, along with two other distance detection methods. We then constructed four graph based on these distances, where the edges represent similarity. another method used is to represent each stock time series in a low dimensional vector, to do that we extracted the feature vector using auto encoders.
+<br>
+We applied multiple classical clustering using four graph structural dataset and a voting mechanism between these clustering methods and dataset to obtain a more robust result. Furthermore, we employed deep learning techniques such as convolutional neural networks (CNN) to cluster stocks. We also used graph neural networks (GNN) which is modified for graph structural input. We also used NLP to find the industry, country, etc of stocks as a feature for deep learning algorthims.
+<br>
+Our results demonstrate that the community structure in the stock market can be identified using DTW and other distance measures. The use of
+autoencoders and deep learning techniques in clustering and community detection showed promising results. Ultimately, our research contributes to the
+understanding and analysis of the stock market and its structures which can potentially be used in portfolio optimization to inform investment decisions
 ## Presentation
 You can find the PowerPoint presentation (as well as its PDF format) in the "PRESENTATION" folder.
 
