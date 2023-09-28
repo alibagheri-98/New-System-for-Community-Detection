@@ -83,7 +83,7 @@ We have developed a novel system that uses community detection algorithms for th
 <br>
 Overall, community detection algorithms are a valuable tool for stock market analysis. By identifying and categorizing stock communities, investors can gain insights into the complex relationships between stocks and improve their investment strategies. The use of community detection algorithms in stock market analysis is a growing field of research, and there are many opportunities for future studies to explore this topic further
 <br>
-<b>The abstract of our report:<\b>
+<b>The abstract of our report:</b>
 <br>
 The aim of our research is to analyze the stock market by detecting the community structure using various distance and clustering methods. We utilized Dynamic Time Warping (DTW) as a distance measure due to its ability to capture delays and time shifts and wraps. We also used a modified version of DTW that is not sensitive to singularities which are mostly noises, along with two other distance detection methods. We then constructed four graph based on these distances, where the edges represent similarity. another method used is to represent each stock time series in a low dimensional vector, to do that we extracted the feature vector using auto encoders.
 <br>
