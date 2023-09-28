@@ -22,6 +22,7 @@ You'll be able to locate the codes for Community Detection that utilize known al
 - dbscan
 - mean_shift
 The input data used is the Karate Club dataset and the output consists of identified communities generated through these algorithms. These communities are combined using a majority vote approach.
+![Screenshot (4692)](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/6e15d631-bde8-4605-ae78-ed1c7b79adba)
 
 ## Community Detection Using Deep Learning algorithms
 Within the repository, you'll find an extensive assortment of code resources thoughtfully organized within the "CD_DL" folder. Our project's approach is intricately designed to build upon the solid foundation laid by the "CD_Classic" folder, integrating cutting-edge advancements to create a comprehensive suite of community detection algorithms. These algorithms have been meticulously crafted to address a wide array of community detection challenges across various domains and datasets, ensuring the versatility and effectiveness of our community detection system.
