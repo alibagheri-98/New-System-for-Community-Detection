@@ -91,7 +91,13 @@ We applied multiple classical clustering using four graph structural dataset and
 <br>
 Our results demonstrate that the community structure in the stock market can be identified using DTW and other distance measures. The use of
 autoencoders and deep learning techniques in clustering and community detection showed promising results. Ultimately, our research contributes to the
-understanding and analysis of the stock market and its structures which can potentially be used in portfolio optimization to inform investment decisions
+understanding and analysis of the stock market and its structures which can potentially be used in portfolio optimization to inform investment decisions.
+<br>
+Some of the results of clusterings:
+![Cluster71](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/979cf45e-4f53-4508-85e8-686d4abd9105)
+![Cluster173](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/317e7fa9-520a-4b33-b3a4-de7d2ee1099f)
+![Cluster264](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/939bd5e9-2dae-46cc-b00d-44e975ebefda)
+
 ## Presentation
 You can find the PowerPoint presentation (as well as its PDF format) in the "PRESENTATION" folder.
 
