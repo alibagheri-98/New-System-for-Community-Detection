@@ -77,24 +77,13 @@ In the stock market, certain stocks exhibit similarities in their behavior. For 
 <br>
 Community detection algorithms are a powerful tool for identifying and categorizing these communities. These algorithms can be used to construct stock networks based on stock prices and detect dynamic communities within those networks. By analyzing these communities, investors can gain insights into the complex relationships between stocks and improve their investment strategies.
 <br>
-We have applied community detection algorithms to stock market analysis in various ways. In our study, we used community detection techniques to simplify stock market analysis and selected the Tehran stock exchange for analysis. Another study introduced a methodology for constructing stock networks based on stock prices and detecting dynamic communities. Yet another study explored community detection for the New York stock market and showed the rationality of community detection on the stock market network.
+We have applied community detection algorithms to stock market analysis in various ways. In our study, we used community detection techniques to simplify stock market analysis and selected the Top 4000 stocks in the world exchange for analysis. Another study introduced a methodology for constructing stock networks based on stock prices and detecting dynamic communities. Yet another study explored community detection for the New York stock market and showed the rationality of community detection on the stock market network.
 <br>
-We have developed a novel system that uses community detection algorithms for the detection of stock communities. The system is being applied to analyze the dataset from all of the stocks in the world, and the research paper titled 'Detecting similar stocks using community detection algorithms' is currently in the submission stage. A report of some of our results is shown in "Stock-Community-Detection.pdf".
+We have developed a novel system that uses community detection algorithms for the detection of stock communities. The system is being applied to analyze the dataset from all of the stocks in the world, and the research paper titled 'Detecting similar stocks using community detection algorithms' is currently in the preparation for submission. A report of some of our results is shown in "Stock-Community-Detection.pdf".
 <br>
 Overall, community detection algorithms are a valuable tool for stock market analysis. By identifying and categorizing stock communities, investors can gain insights into the complex relationships between stocks and improve their investment strategies. The use of community detection algorithms in stock market analysis is a growing field of research, and there are many opportunities for future studies to explore this topic further
 <br>
 ![image](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/b4f9582a-bb81-432a-b8b0-d27c2d34e23d)
-
-Some of our results for clustering the stocks:
-![Cluster3](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/aca4618f-9b9e-41e7-8af9-dc28e1fba3de)
-![Cluster4](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/082e45c7-c7c6-4744-ad8e-05f895cabfec)
-![Cluster9](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/f27ef5d5-21ae-4e91-ab90-0efdecba3a1a)
-![Cluster14](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/53a45ca1-3052-4487-8e00-f18a55e57cbf)
-![Cluster46](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/28cfbea3-e7e2-4441-8db8-700bd1fbf29c)
-![Cluster51](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/7f40d1c9-cf81-4d43-a5f2-be14b3c10fe6)
-![Cluster21](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/4830f968-c5f1-454d-acb6-e2e3b3d71242)
-![Cluster58](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/9853f100-4de1-4ecb-aceb-550635a3585e)
-![Cluster65](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/95674705-aed5-4681-947e-807f9265c182)
 
 
 <b>The abstract of our report:</b>
