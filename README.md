@@ -140,22 +140,29 @@ Within the "Community-Detection-Project" folder, you will uncover the details of
 
 
 ## A project to optimize advertisment in social medias 
-###  The main goal of the project
-"The primary objective of our project is to optimize advertising algorithms for enhanced advertising across various social media platforms. We are currently working on the entire project with the aim of achieving this goal.
-Our main focus is to showcase our advertisements to a wide audience in need of our product, all while adhering to a predetermined budget. We refer to this group as our 'target audience.' The size of this target audience is influenced by several factors, including the channel's subscriber count, the engagement rate of subscribers with channel posts, and the willingness of these subscribers to purchase our product."
-### What is the engagment rate?
+<br>
+<b>The main goal of the project</b>
+The primary objective of our project is to optimize advertising algorithms for enhanced advertising across various social media platforms. We are currently working on the entire project with the aim of achieving this goal.
+Our main focus is to showcase our advertisements to a wide audience in need of our product, all while adhering to a predetermined budget. We refer to this group as our 'target audience.' The size of this target audience is influenced by several factors, including the channel's subscriber count, the engagement rate of subscribers with channel posts, and the willingness of these subscribers to purchase our product.
+<br>
+<b>What is the engagment rate?</b>
 When we mention the "engagement rate,"we are referring to the cumulative reactions, comments, and views a post receives within different timeframes and on various days of the week in a specific channel or page.
-### Predicting advertisment prices
-"We have developed a model that predicts advertisement prices for channels or pages based on various features, such as the number of subscribers, engagement rate, and the community label associated with that channel or page. The purpose of creating this model is to estimate the advertisement prices for a given channel based on its specific characteristics.
-Subsequently, we compare this estimated price to the actual price offered by the owner of the channel or page. If the offered price exceeds our estimate, it suggests that the channel's pricing is not competitive. However, if the offered price falls below our estimate by a certain threshold, we consider adding that channel to our list of potential advertising targets. The specific threshold is determined by the budget at our disposal."
-### Predicting engagment rate 
-"We've developed a neural network model capable of predicting the engagement rate of posts within a channel using specific data from both the post and the channel. This data includes the number of subscribers to the channel, the channel's community label, the time at which the post was published, and various other features. Detailed information regarding this process can be found in "result1.pdf" located within the repository.
-The primary motivation for this development is to streamline the calculation of the engagement rate for posts in a channel, a task that is both time-consuming and computationally expensive when done on a daily basis. By collecting data from the channel, we can use our model to predict the engagement rate of future posts, thereby saving time and computational resources. It's important to note that we will periodically update our dataset after a specified interval."
-### Desire of subscribers
-"The subsequent tasks involve two key objectives: first, identifying the most suitable community label that aligns with our product, and second, identifying the related communities corresponding to that community label.
+<br>
+<b>Predicting advertisment prices</b>
+We have developed a model that predicts advertisement prices for channels or pages based on various features, such as the number of subscribers, engagement rate, and the community label associated with that channel or page. The purpose of creating this model is to estimate the advertisement prices for a given channel based on its specific characteristics.
+Subsequently, we compare this estimated price to the actual price offered by the owner of the channel or page. If the offered price exceeds our estimate, it suggests that the channel's pricing is not competitive. However, if the offered price falls below our estimate by a certain threshold, we consider adding that channel to our list of potential advertising targets. The specific threshold is determined by the budget at our disposal.
+<br>
+<b> Predicting engagment rate </b>
+We've developed a neural network model capable of predicting the engagement rate of posts within a channel using specific data from both the post and the channel. This data includes the number of subscribers to the channel, the channel's community label, the time at which the post was published, and various other features. Detailed information regarding this process can be found in "result1.pdf" located within the repository.
+The primary motivation for this development is to streamline the calculation of the engagement rate for posts in a channel, a task that is both time-consuming and computationally expensive when done on a daily basis. By collecting data from the channel, we can use our model to predict the engagement rate of future posts, thereby saving time and computational resources. It's important to note that we will periodically update our dataset after a specified interval.
+<br>
+<b> Desire of subscribers</b>
+The subsequent tasks involve two key objectives: first, identifying the most suitable community label that aligns with our product, and second, identifying the related communities corresponding to that community label.
 The first task is relatively straightforward. For instance, the most relevant label for clothing products is, unsurprisingly, 'clothing.' However, the second task is more challenging because a clothing product could potentially be advertised on a channel with a 'shoes' community label, but it would not be appropriate to advertise it on a channel primarily focused on political content.
-In the case of Telegram, achieving this second objective necessitates employing natural language processing (NLP) techniques to assess the content and community labels. On other platforms like Instagram, a different approach can be taken by monitoring the degree of overlap in followers between various pages with different community labels."
-### The final task
-"The ultimate task is to select the optimal set from the available list, taking into account their prices, subscriber counts, engagement rates, and community labels. To accomplish this, we have created a neural network designed to evaluate and test the output for all potential sets."
-### The results
-"Our system has undergone rigorous testing and is adaptable to a range of usage scenarios. We've successfully attracted numerous customers and generated 50 million Tomans in revenue from this project. While our current system has been trained for Telegram, we are in the process of developing a new system for Instagram and another platform, referred to as 'X'."
+In the case of Telegram, achieving this second objective necessitates employing natural language processing (NLP) techniques to assess the content and community labels. On other platforms like Instagram, a different approach can be taken by monitoring the degree of overlap in followers between various pages with different community labels.
+<br>
+<b> The final task </b>
+The ultimate task is to select the optimal set from the available list, taking into account their prices, subscriber counts, engagement rates, and community labels. To accomplish this, we have created a neural network designed to evaluate and test the output for all potential sets.
+<br>
+<b> The results </b>
+We've successfully attracted numerous customers and generated 50 million Tomans in revenue from this project. While our current system has been trained for Telegram, we are in the process of developing a new system for Instagram and another platform, referred to as 'X'.
