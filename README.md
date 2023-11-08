@@ -140,7 +140,7 @@ Within the "Community-Detection-Project" folder, you will uncover the details of
 
 
 ## A project to optimize advertisment in social medias 
-<br> <br>
+<br>
 <b>The main goal of the project</b>
 <br>
 The primary objective of our project is to optimize advertising algorithms for enhanced advertising across various social media platforms. We are currently working on the entire project with the aim of achieving this goal.
