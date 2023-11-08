@@ -85,6 +85,18 @@ Overall, community detection algorithms are a valuable tool for stock market ana
 <br>
 ![image](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/b4f9582a-bb81-432a-b8b0-d27c2d34e23d)
 
+Some of our results for clustering the stocks:
+![Cluster3](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/aca4618f-9b9e-41e7-8af9-dc28e1fba3de)
+![Cluster4](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/082e45c7-c7c6-4744-ad8e-05f895cabfec)
+![Cluster9](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/f27ef5d5-21ae-4e91-ab90-0efdecba3a1a)
+![Cluster14](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/53a45ca1-3052-4487-8e00-f18a55e57cbf)
+![Cluster46](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/28cfbea3-e7e2-4441-8db8-700bd1fbf29c)
+![Cluster51](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/7f40d1c9-cf81-4d43-a5f2-be14b3c10fe6)
+![Cluster21](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/4830f968-c5f1-454d-acb6-e2e3b3d71242)
+![Cluster58](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/9853f100-4de1-4ecb-aceb-550635a3585e)
+![Cluster65](https://github.com/alibagheri-98/New-System-for-Community-Detection/assets/112773855/95674705-aed5-4681-947e-807f9265c182)
+
+
 <b>The abstract of our report:</b>
 <br>
 The aim of our research is to analyze the stock market by detecting the community structure using various distance and clustering methods. We utilized Dynamic Time Warping (DTW) as a distance measure due to its ability to capture delays and time shifts and wraps. We also used a modified version of DTW that is not sensitive to singularities which are mostly noises, along with two other distance detection methods. We then constructed four graph based on these distances, where the edges represent similarity. another method used is to represent each stock time series in a low dimensional vector, to do that we extracted the feature vector using auto encoders.
